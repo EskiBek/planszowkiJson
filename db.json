@@ -1,40 +1,39 @@
 {
-  gry_planszowe:[
+   "gry_planszowe":[
       {
-        nazwa: "Wirus! 2 Ewolucja",
-        minWiek: 8,
-        minLG: 2,
-        maxLG: 10,
-        czasGrania: 45
+         "nazwa":"Wirus! 2 Ewolucja",
+         "minWiek":8,
+         "minLG":2,
+         "maxLG":10,
+         "czasGrania":45
       },
       {
-        nazwa: "Dylematy",
-        minWiek: 18,
-        minLG: 4,
-        maxLG: 16,
-        czasGrania: 90
+         "nazwa":"Dylematy",
+         "minWiek":18,
+         "minLG":4,
+         "maxLG":16,
+         "czasGrania":90
       },
       {
-        nazwa: "Dixit",
-        minWiek: 8,
-        minLG: 3,
-        maxLG: 12,
-        czasGrania: 30
+         "nazwa":"Dixit",
+         "minWiek":8,
+         "minLG":3,
+         "maxLG":12,
+         "czasGrania":30
       },
       {
-        "nazwa": Superfarmer,
-        minWiek: 6,
-        minLG: 2,
-        maxLG: 8,
-        czasGrania: 20
+         "nazwa":"Superfarmer",
+         "minWiek":6,
+         "minLG":2,
+         "maxLG":8,
+         "czasGrania":20
       },
       {
-        nazwa: "Splendor",
-        minWiek: 10,
-        minLG: 2,
-        maxLG: 14,
-        czasGrania: 60
-      },
-      
-  ]
+         "nazwa":"Splendor",
+         "minWiek":10,
+         "minLG":2,
+         "maxLG":14,
+         "czasGrania":60
+      }
+   ]
 }
