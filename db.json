@@ -1,35 +1,35 @@
 {
   "gry_planszowe":[
       {
-        "nazwa": "Wirus! 2 Ewolucja",
+        nazwa: "Wirus! 2 Ewolucja",
         minWiek: 8,
         minLG: 2,
         maxLG: 10,
         czasGrania: 45
       },
       {
-        "nazwa": "Dylematy",
+        nazwa: "Dylematy",
         minWiek: 18,
         minLG: 4,
         maxLG: 16,
         czasGrania: 90
       },
       {
-        "nazwa": "Dixit",
+        nazwa: "Dixit",
         minWiek: 8,
         minLG: 3,
         maxLG: 12,
         czasGrania: 30
       },
       {
-        "nazwa": "Superfarmer",
+        "nazwa": Superfarmer,
         minWiek: 6,
         minLG: 2,
         maxLG: 8,
         czasGrania: 20
       },
       {
-        "nazwa": "Splendor",
+        nazwa: "Splendor",
         minWiek: 10,
         minLG: 2,
         maxLG: 14,
